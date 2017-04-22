@@ -1,0 +1,16 @@
+.col {
+    margin: 0px;
+    float: left; }
+.colpair {
+    float: left;
+    height: 355px; }
+:not(:last-child).colpair {
+    margin-right: 25px;
+    }
+.unit {
+    width: 100px;
+    height: 100px;
+    margin: 0 25px 25px 0;
+    text-align: center; }
+.off { background: #444; }
+.on { background: #44f; }

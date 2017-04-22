@@ -1,0 +1,19 @@
+** Dependencies
+
+-  java 1.7+
+-  [[http://boot-clj.com][boot]]
+
+** Usage
+
+*** Build
+
+1. In a terminal run:
+
+   #+BEGIN_EXAMPLE
+       $ boot build
+   #+END_EXAMPLE
+
+** License
+
+Copyright (C) 2017 Andy L @happy-lisper
+Copyright (C) 2013 Clinton Dreisbach
