@@ -15,5 +15,5 @@
 
 ** License
 
-Copyright (C) 2017 Andy L @happy-lisper
+Copyright (C) 2017 Andy L @happy_lisper
 Copyright (C) 2013 Clinton Dreisbach
